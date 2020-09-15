@@ -19,10 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="teste">
-      <change afterPath="$PROJECT_DIR$/libpythonpro/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/github_api.py" afterDir="false" />
+    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="add github_api">
+      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/github_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/github_api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600098890639</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add github_api.py">
+      <created>1600116052780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600116052780</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add github_api">
+      <created>1600116097972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600116097972</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,37 +158,47 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testando o buscar avatar" />
     <MESSAGE value="teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste" />
+    <MESSAGE value="add github_api.py" />
+    <MESSAGE value="add github_api" />
+    <option name="LAST_COMMIT_MESSAGE" value="add github_api" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="429" y="168" width="498" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600196191980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="168" width="498" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600196191980" />
+    <state x="127" y="54" width="1092" height="606" key="DiffContextDialog" timestamp="1600116140124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="127" y="54" width="1092" height="606" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1600116140124" />
     <state x="466" y="121" width="424" height="478" key="FileChooserDialogImpl" timestamp="1600098226651">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="121" width="424" height="478" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600098226651" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1600095842804">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1600136159919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600095842804" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1600095842803">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600136159919" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1600136159915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600095842803" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1600095842802">
+    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600136159915" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1600136159913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600095842802" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1600095842803">
+    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600136159913" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1600136159917">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600095842803" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600136159917" />
     <state x="187" y="0" key="SettingsEditor" timestamp="1600115267392">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600115267392" />
-    <state x="278" y="99" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1600098912614">
+    <state x="278" y="99" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1600116145784">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="278" y="99" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600098912614" />
+    <state x="278" y="99" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600116145784" />
     <state x="408" y="258" width="540" height="204" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600098984782">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
