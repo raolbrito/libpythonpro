@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="add travis&#10;&#10;close #13" />
+    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="add arquivos requiriments e travis&#10;&#10;close #13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600282744320</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add arquivos requiriments e travis&#10;&#10;close #13">
+      <created>1600283080855</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600283080855</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +192,8 @@
     <MESSAGE value="add github_api" />
     <MESSAGE value="adicionada flake8 como dependencia &#10;&#10;close #12" />
     <MESSAGE value="add travis&#10;&#10;close #13" />
-    <option name="LAST_COMMIT_MESSAGE" value="add travis&#10;&#10;close #13" />
+    <MESSAGE value="add arquivos requiriments e travis&#10;&#10;close #13" />
+    <option name="LAST_COMMIT_MESSAGE" value="add arquivos requiriments e travis&#10;&#10;close #13" />
   </component>
   <component name="WindowStateProjectService">
     <state x="429" y="168" width="498" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600196191980">
