@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="add arquivos requiriments e travis&#10;&#10;close #13" />
+    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="add arquivos requiriments e travis&#10;&#10;close #13">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600283080855</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add arquivos requiriments e travis&#10;&#10;close #13">
+      <created>1600283338109</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600283338109</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add arquivos requiriments e travis&#10;&#10;close #13">
+      <created>1600283367720</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600283367720</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,14 +240,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600136159917" />
-    <state x="187" y="0" key="SettingsEditor" timestamp="1600115267392">
+    <state x="187" y="0" key="SettingsEditor" timestamp="1600284097684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600115267392" />
-    <state x="143" y="85" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1600283083044">
+    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600284097684" />
+    <state x="143" y="85" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1600283369301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="143" y="85" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600283083044" />
+    <state x="143" y="85" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600283369301" />
     <state x="408" y="258" width="540" height="204" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600098984782">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
