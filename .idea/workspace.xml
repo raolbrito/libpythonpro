@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="add arquivos requiriments e travis&#10;&#10;close #13">
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="add setup.py&#10;&#10;close 18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600283367720</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add setup.py&#10;&#10;close 18">
+      <created>1600708046932</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600708046932</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +219,8 @@
     <MESSAGE value="adicionada flake8 como dependencia &#10;&#10;close #12" />
     <MESSAGE value="add travis&#10;&#10;close #13" />
     <MESSAGE value="add arquivos requiriments e travis&#10;&#10;close #13" />
-    <option name="LAST_COMMIT_MESSAGE" value="add arquivos requiriments e travis&#10;&#10;close #13" />
+    <MESSAGE value="add setup.py&#10;&#10;close 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="add setup.py&#10;&#10;close 18" />
   </component>
   <component name="WindowStateProjectService">
     <state x="429" y="168" width="498" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600706356121">
@@ -251,10 +255,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600284097684" />
-    <state x="143" y="85" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1600708025984">
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1600708058175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="143" y="85" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600708025984" />
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600708058174" />
     <state x="408" y="258" width="540" height="204" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600098984782">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
