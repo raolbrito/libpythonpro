@@ -94,7 +94,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro_raolbrito"
+PACKAGE = "libpythonpro"
 NAME = 'raol_libpyhtonpro'
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Rafael Brito"
