@@ -22,7 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="inserido test com pytest fix" />
+    <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="inserido pytest fixing erro travis">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requiriments-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requiriments-dev.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -309,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601996590510</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="inserido pytest fixing erro travis">
+      <created>1601997170737</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1601997170737</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,7 +350,8 @@
     <MESSAGE value="alterando 3 setup.py" />
     <MESSAGE value="inserido test com pytest" />
     <MESSAGE value="inserido test com pytest fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="inserido test com pytest fix" />
+    <MESSAGE value="inserido pytest fixing erro travis" />
+    <option name="LAST_COMMIT_MESSAGE" value="inserido pytest fixing erro travis" />
   </component>
   <component name="WindowStateProjectService">
     <state x="429" y="168" width="498" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600706356121">
@@ -354,30 +366,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="121" width="424" height="478" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601995604681" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1601996521944">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1601997584060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601996521944" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1601996521944">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601997584060" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1601997584060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601996521944" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1601996521943">
+    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601997584060" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1601997584059">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601996521943" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1601996521944">
+    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601997584059" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1601997584060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601996521944" />
-    <state x="187" y="0" key="SettingsEditor" timestamp="1601996846291">
+    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601997584060" />
+    <state x="187" y="0" key="SettingsEditor" timestamp="1601997299759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601996846291" />
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1601996223714">
+    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601997299759" />
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1601997172972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601996223714" />
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601997172972" />
     <state x="408" y="258" width="540" height="204" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600098984782">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

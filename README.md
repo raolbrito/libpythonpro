@@ -6,7 +6,7 @@ Nesse curso é ensinado como contrubuir para projetos com codigo aberto
 Suporta Python 3
 
 [![Build Status](https://travis-ci.com/raolbrito/libpythonpro.svg?branch=master)](https://travis-ci.com/raolbrito/libpythonpro)
-
+[![codecov](https://codecov.io/gh/raolbrito/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/raolbrito/libpythonpro)
 
 Para instalar:
 
