@@ -12,6 +12,7 @@ def test_salvar_usuario():
     sessao.fechar()
     conexao.fechar()
 
+
 def test_listar_usuarios():
     conexao = Conexao()
     sessao = conexao.gerar_sessao()
