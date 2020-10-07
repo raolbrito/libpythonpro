@@ -3,6 +3,5 @@ class EnviadorDeSpam:
         self.sessao = sessao
         self.enviador = enviador
 
-
-def enviar_emails(self, remetente, assunto, corpo):
-    pass
+    def enviar_emails(self, remetente, assunto, corpo):
+        pass
