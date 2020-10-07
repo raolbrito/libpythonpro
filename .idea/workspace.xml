@@ -23,7 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="acrescentado banco de dados">
-      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="e9de45dfafd157789f09b4334eb7aaa28f97bae6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,8 +83,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_usuarios.py">
-    <configuration name="pytest for test_usuarios.test_listar_usuarios" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in test_envio_para_base_de_usuarios.py">
+    <configuration name="pytest for test_envio_para_base_de_usuarios.test_envio_de_spam" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +96,7 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_usuarios.test_listar_usuarios&quot;" />
+      <option name="_new_target" value="&quot;test_envio_para_base_de_usuarios.test_envio_de_spam&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -112,7 +116,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_enviador_de_email.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_envio_para_base_de_usuarios.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +128,7 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -162,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_envio_para_base_de_usuarios.py" />
+        <item itemvalue="Python tests.pytest for test_envio_para_base_de_usuarios.test_envio_de_spam" />
         <item itemvalue="Python tests.pytest in test_usuarios.py" />
-        <item itemvalue="Python tests.pytest in tests" />
-        <item itemvalue="Python tests.pytest for test_usuarios.test_listar_usuarios" />
         <item itemvalue="Python tests.pytest for test_usuarios.test_salvar_usuario" />
-        <item itemvalue="Python tests.pytest in test_enviador_de_email.py" />
+        <item itemvalue="Python tests.pytest in tests" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602090531857</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="acrescentado banco de dados">
+      <created>1602090669367</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1602090669367</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,10 +433,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="429" y="168" width="498" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600706356121" />
-    <state x="441" y="256" width="494" height="354" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1602089006572">
+    <state x="441" y="256" width="494" height="354" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1602093968937">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="441" y="256" width="494" height="354" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1602089006572" />
+    <state x="441" y="256" width="494" height="354" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1602093968937" />
     <state x="127" y="54" width="1092" height="606" key="DiffContextDialog" timestamp="1600116140124">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -434,30 +445,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="121" width="424" height="478" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602084206801" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1602089228618">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1602093818003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602089228618" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1602089228617">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602093818003" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1602093818001">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602089228617" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1602089228617">
+    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602093818001" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1602093818000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602089228617" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1602089228618">
+    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602093818000" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1602093818002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602089228618" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602093818002" />
     <state x="187" y="0" key="SettingsEditor" timestamp="1601998748237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601998748237" />
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1602090532971">
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1602090709522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602090532971" />
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602090709522" />
     <state x="362" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1601999311363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
