@@ -23,12 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="acrescentado banco de dados">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/modelos.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/modelos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requiriments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requiriments.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -421,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602095145608</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="acrescentado banco de dados">
+      <created>1602102031123</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1602102031123</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -473,30 +474,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="121" width="424" height="478" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602084206801" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1602101741107">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1602101998026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602101741107" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1602101741107">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602101998026" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1602101998025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602101741107" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1602101741106">
+    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602101998025" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1602101998025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602101741106" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1602101741107">
+    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602101998025" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1602101998025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602101741107" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602101998025" />
     <state x="187" y="0" key="SettingsEditor" timestamp="1601998748237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601998748237" />
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1602095146969">
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1602102035429">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602095146969" />
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602102035429" />
     <state x="524" y="151" width="308" height="417" key="refactoring.ChangeSignatureDialog" timestamp="1602095856575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
