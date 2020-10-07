@@ -28,4 +28,3 @@ def test_quantidade_de_spam(sessao, usuarios):
         'viu deu certo'
     )
     assert len(usuarios) == enviador.qtd_email_enviados
-
