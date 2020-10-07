@@ -23,8 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="acrescentado banco de dados">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/db.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -363,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602089682134</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="acrescentado banco de dados">
+      <created>1602090135346</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1602090135346</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,10 +440,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601998748237" />
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1602089685141">
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1602090138086">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602089685141" />
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602090138086" />
     <state x="362" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1601999311363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
