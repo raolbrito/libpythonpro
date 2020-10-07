@@ -1,11 +1,10 @@
 import pytest
-
 from libpythonpro.spam.enviador_de_email import Enviador, EmailIvalido
-
 
 def test_criar_enviador_de_email():
     enviador = Enviador()
     assert enviador is not None
+
 
 @pytest.mark.parametrize(
     'destinatario',
