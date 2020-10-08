@@ -23,7 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a240f4c2-eb63-49c6-b7e3-f02955e5b944" name="Default Changelist" comment="acrescentado banco de dados">
-      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/test_github_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/github_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/github_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +74,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -79,7 +84,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_envio_para_base_de_usuarios.py">
+  <component name="RunManager" selected="Python tests.pytest in test_github_api.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,22 +106,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_envio_para_base_de_usuarios.test_envio_de_spam" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="libpythonpro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/tests/test_spam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_envio_para_base_de_usuarios.test_envio_de_spam&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest for test_envio_para_base_de_usuarios.test_quantidade_de_spam" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,6 +119,22 @@
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_envio_para_base_de_usuarios.test_quantidade_de_spam&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_github_api.test_buscar_avatar" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="libpythonpro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/spam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_github_api.test_buscar_avatar&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -149,29 +154,29 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_usuarios.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_github_api.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/tests/test_spam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/spam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/spam/test_github_api.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_github_api.py" />
+        <item itemvalue="Python tests.pytest for test_github_api.test_buscar_avatar" />
         <item itemvalue="Python tests.pytest in test_envio_para_base_de_usuarios.py" />
         <item itemvalue="Python tests.pytest for test_envio_para_base_de_usuarios.test_quantidade_de_spam" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python tests.pytest in test_usuarios.py" />
-        <item itemvalue="Python tests.pytest for test_envio_para_base_de_usuarios.test_envio_de_spam" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602102727358</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="acrescentado banco de dados">
+      <created>1602102872233</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1602102872233</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,30 +514,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="121" width="424" height="478" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602084206801" />
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1602102798015">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1602183931103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602102798015" />
-    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1602102798014">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602183931103" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1602183931101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602102798014" />
-    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1602102798014">
+    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602183931101" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1602183931100">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602102798014" />
-    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1602102798015">
+    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602183931100" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1602183931101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602102798015" />
-    <state x="187" y="0" key="SettingsEditor" timestamp="1601998748237">
+    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602183931101" />
+    <state width="1345" height="217" key="GridCell.Tab.1.bottom" timestamp="1602183184094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601998748237" />
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1602102728608">
+    <state width="1345" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602183184094" />
+    <state width="1345" height="217" key="GridCell.Tab.1.center" timestamp="1602183184093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602102728608" />
+    <state width="1345" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602183184093" />
+    <state width="1345" height="217" key="GridCell.Tab.1.left" timestamp="1602183184093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602183184093" />
+    <state width="1345" height="217" key="GridCell.Tab.1.right" timestamp="1602183184093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602183184093" />
+    <state x="187" y="0" key="SettingsEditor" timestamp="1602183171784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602183171784" />
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2" timestamp="1602102873652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="242" y="70" width="800" height="494" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602102873652" />
     <state x="524" y="151" width="308" height="417" key="refactoring.ChangeSignatureDialog" timestamp="1602095856575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -534,9 +562,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="362" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601999311363" />
-    <state x="408" y="258" width="540" height="204" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600098984782">
+    <state x="408" y="258" width="540" height="204" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602183215776">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="408" y="258" width="540" height="204" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1600098984782" />
+    <state x="408" y="258" width="540" height="204" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1602183215776" />
   </component>
 </project>
